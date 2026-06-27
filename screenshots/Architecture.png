@@ -1,6 +1,0 @@
-flowchart TD
-A[User]
-A --> B[SAP GUI / SAP Fiori]
-B --> C[ABAP Application]
-C --> D[CDS Views]
-D --> E[SAP HANA Database]
