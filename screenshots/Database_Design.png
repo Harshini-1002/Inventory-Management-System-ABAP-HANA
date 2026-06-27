@@ -1,0 +1,30 @@
+Supplier
+---------
+Supplier_ID
+Supplier_Name
+Phone
+Email
+      |
+      | 1
+      |
+      | N
+      |
+Product
+---------
+Product_ID
+Product_Name
+Category
+Price
+Stock
+Supplier_ID
+      |
+      | 1
+      |
+      | N
+      |
+Purchase Order
+--------------
+PO_Number
+Product_ID
+Quantity
+Status
