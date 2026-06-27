@@ -1,0 +1,9 @@
+@AbapCatalog.sqlViewName: 'ZPRODUCTVW'
+
+define view Z_Product_View
+  as select from zproduct
+{
+    key product_id,
+    product_name,
+    stock_quantity
+}
