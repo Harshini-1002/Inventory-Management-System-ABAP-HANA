@@ -40,6 +40,27 @@ The objective of this project is to understand:
 
 ---
 
+## Project Screenshots
+
+### Business Process Flow
+
+![Business Flow](screenshots/Business_Process_Flow.png)
+
+### System Architecture
+
+![System Architecture](screenshots/System_Architecture.png)
+
+### Entity Relationship Diagram
+
+![ER Diagram](screenshots/ER_Diagram.png)
+
+### Project Modules
+
+![Project Modules](screenshots/Modules_Overview.png)
+
+
+---
+
 ## Technologies Studied
 
 - SAP ABAP
